@@ -1,0 +1,11 @@
+.redes_sociais a{
+
+
+    color:rgb(196, 252, 249);
+} 
+
+.redes_sociais a:hover{
+
+    text-decoration: none;
+    color:rgb(196, 252, 249);
+}
