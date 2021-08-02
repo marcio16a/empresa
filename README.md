@@ -1,2 +1,2 @@
 # empresa
-exemplo de pequeno website para empresas
+exemplo de pequeno website com html e bootstrap
